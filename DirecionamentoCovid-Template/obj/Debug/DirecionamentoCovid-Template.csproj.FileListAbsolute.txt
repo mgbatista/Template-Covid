@@ -1,0 +1,7 @@
+C:\Users\maiar\source\repos\DirecionamentoCovid-Template\DirecionamentoCovid-Template\obj\Debug\DirecionamentoCovid-Template.csprojAssemblyReference.cache
+C:\Users\maiar\source\repos\DirecionamentoCovid-Template\DirecionamentoCovid-Template\obj\Debug\DirecionamentoCovid-Template.csproj.CoreCompileInputs.cache
+C:\Users\maiar\source\repos\DirecionamentoCovid-Template\DirecionamentoCovid-Template\bin\Debug\DirecionamentoCovid-Template.exe.config
+C:\Users\maiar\source\repos\DirecionamentoCovid-Template\DirecionamentoCovid-Template\bin\Debug\DirecionamentoCovid-Template.exe
+C:\Users\maiar\source\repos\DirecionamentoCovid-Template\DirecionamentoCovid-Template\bin\Debug\DirecionamentoCovid-Template.pdb
+C:\Users\maiar\source\repos\DirecionamentoCovid-Template\DirecionamentoCovid-Template\obj\Debug\DirecionamentoCovid-Template.exe
+C:\Users\maiar\source\repos\DirecionamentoCovid-Template\DirecionamentoCovid-Template\obj\Debug\DirecionamentoCovid-Template.pdb
